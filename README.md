@@ -1,4 +1,4 @@
-# cordova-plugin-uid-forked
+# cordova-plugin-uid
 Cordova plugin to get unique identifiers: UUID, IMEI, IMSI, ICCID and MAC.
 
 This plugin defines a `cordova.plugins.uid` object.
@@ -10,7 +10,7 @@ The object is not available until after the `deviceready` event.
 		}
 
 ## Installation
-		cordova plugin add https://github.com//gallyamow/cordova-plugin-uid
+		cordova plugin add https://github.com/gallyamow/cordova-plugin-uid
 
 ## Properties
 - uid.UUID
